@@ -1,0 +1,8 @@
+site_name: NLORM Docs
+repo_url: https://github.com/eternnoir/NLORM
+pages:
+- [index.md, Home]
+- [nlorm.md, NLORM]
+- [model.md, Model]
+- [crud.md, CRUD]
+theme: readthedocs
